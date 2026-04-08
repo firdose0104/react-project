@@ -20,6 +20,7 @@ import Exp2 from './components/Exp2'
 function App() {
 	return (
 		<main className="app">
+			<h1>hi</h1>
 			<Exp2 />
 		</main>
 	)
